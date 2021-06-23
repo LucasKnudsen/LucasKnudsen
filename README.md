@@ -2,7 +2,7 @@
 
 Current aspirations:   
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)  
+Python & AWS 
 
 Fluent in:   
 
@@ -10,4 +10,4 @@ Fluent in:
 
 Experienced in:   
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)  
+NodeJS 
