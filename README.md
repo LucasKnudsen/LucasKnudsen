@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKnudsen&layout=compact&theme=algolia&langs_count=6&line_height=16&bg_color=00000000" />
 
 ### Hi!
-I'm Lucas, an aspiring 28 year old full stack developer with an enjoyment for problem-solving and a strong curiosity for learning more.
+I'm Lucas, an aspiring full stack developer with an enjoyment for problem-solving and a strong curiosity for learning more.
 
 ### Current aspirations:
 
